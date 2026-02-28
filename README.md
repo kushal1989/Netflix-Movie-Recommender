@@ -59,4 +59,3 @@ The application is deployed and accessible through a simple and user-friendly in
 
 ---
 
-**star the repo!**
