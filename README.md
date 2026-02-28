@@ -45,7 +45,7 @@ The application is deployed and accessible through a simple and user-friendly in
 
 ## 🌐 Live Demo
 
-👉 https://lnkd.in/gdtCYbzj
+👉  https://lnkd.in/gP4SmaGr
 
 ---
 
